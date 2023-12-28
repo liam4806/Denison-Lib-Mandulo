@@ -2,7 +2,11 @@
 
 
 #### Demo video 
-https://github.com/Denison-Library-Mandulo/Denison-Lib-Mandulo/assets/106914387/81704e7e-faf6-4233-8a58-af152800bf65
+
+
+https://github.com/liam4806/Denison-Lib-Mandulo/assets/95008167/da01b050-9078-4182-bfc4-98aa1b3db899
+
+
 ### College Attendance with AWS Rekognition and Cloud Computing
 
 ### Description
