@@ -3,8 +3,6 @@
 
 
 ### College Attendance with AWS Rekognition and Cloud Computing
-#### Demo video 
-https://github.com/Denison-Library-Mandulo/Denison-Lib-Mandulo/assets/106914387/81704e7e-faf6-4233-8a58-af152800bf65
 
 ### Description
 Manage your attendance easily and efficiently with AWS{S3, DynamoDB, API Gateway, Lambda}, a python-based tool for automated deployment, and node-js. 
