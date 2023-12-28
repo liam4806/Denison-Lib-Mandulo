@@ -3,8 +3,7 @@
 
 #### Demo video 
 
-
-https://github.com/liam4806/Denison-Lib-Mandulo/assets/95008167/da01b050-9078-4182-bfc4-98aa1b3db899
+[https://github.com/liam4806/Denison-Lib-Mandulo/assets/95008167/2dd2f288-7d20-48c6-a943-59a553c387f0](https://github-production-user-asset-6210df.s3.amazonaws.com/95008167/293287726-2dd2f288-7d20-48c6-a943-59a553c387f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20231228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231228T231638Z&X-Amz-Expires=300&X-Amz-Signature=3ee0c78dd6d65cffc8b0b5eb8dadb1d647074f8644ee9fe4a8c619a55586b3fe&X-Amz-SignedHeaders=host&actor_id=95008167&key_id=0&repo_id=711341613)
 
 
 ### College Attendance with AWS Rekognition and Cloud Computing
