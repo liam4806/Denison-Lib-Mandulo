@@ -13,7 +13,7 @@ An AWS service that allows for image and video analysis. Using deep learning tec
 rekognition Api is accessible through python. https://docs.aws.amazon.com/managedservices/latest/userguide/rekognition.html 
 
 ### Workflow overview
-(https://github.com/Denison-Library-Mandulo/Denison-Lib-Mandulo/assets/108073642/afce95e8-97fc-411d-8dd6-e357867667d8)
+[overflow](https://github.com/Denison-Library-Mandulo/Denison-Lib-Mandulo/assets/108073642/afce95e8-97fc-411d-8dd6-e357867667d8)
 
 ### Frontend Pipeline
 #### Initialization
