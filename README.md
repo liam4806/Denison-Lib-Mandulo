@@ -1,7 +1,8 @@
 # Automated Attendance Checker
 
 
-
+#### Demo video 
+https://github.com/Denison-Library-Mandulo/Denison-Lib-Mandulo/assets/106914387/81704e7e-faf6-4233-8a58-af152800bf65
 ### College Attendance with AWS Rekognition and Cloud Computing
 
 ### Description
