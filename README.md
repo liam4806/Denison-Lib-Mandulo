@@ -20,7 +20,9 @@ An AWS service that allows for image and video analysis. Using deep learning tec
 rekognition Api is accessible through python. https://docs.aws.amazon.com/managedservices/latest/userguide/rekognition.html 
 
 ### Workflow overview
-![overflow](https://github-production-user-asset-6210df.s3.amazonaws.com/108073642/278877863-afce95e8-97fc-411d-8dd6-e357867667d8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20231228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231228T231030Z&X-Amz-Expires=300&X-Amz-Signature=ea55681bba014b7823c1337a7fe690adc6719381b853cdff668b4f934c51c6e3&X-Amz-SignedHeaders=host&actor_id=95008167&key_id=0&repo_id=711216819)
+
+<img width="830" alt="Workflow" src="https://github.com/liam4806/Denison-Lib-Mandulo/assets/95008167/f5255740-0c5f-4282-a575-1c581eca4749">
+
 
 ### Frontend Pipeline
 #### Initialization
